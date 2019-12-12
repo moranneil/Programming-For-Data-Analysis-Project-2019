@@ -2,9 +2,9 @@
 
 ![Image](Images/pythonpandas.JPG "Image")
 
-# Research
+# Real World Phenomenon 
 
 # Variables
 
-# Synthesis Data
+# Building the Dataframe
 
