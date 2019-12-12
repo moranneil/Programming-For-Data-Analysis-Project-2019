@@ -2,11 +2,11 @@
 
 ![Image](Images/pythonpandas.JPG "Image")
 
-# Problem Statement
+## Problem Statement
 
-# Real World Phenomenon 
+## Real World Phenomenon 
 
-# Variables
+## Variables
 
-# Building the Dataframe
+## Building the Dataframe
 
